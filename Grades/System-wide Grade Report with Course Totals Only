@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<report version="2011040110"><visible><![CDATA[1]]></visible>
+<name><![CDATA[System-wide Grade Report with Course Totals Only]]></name>
+<summary><![CDATA[<p id="yui_3_9_1_3_1420815440150_967">Shows the total grade in each course for each student.</p>]]></summary>
+<type><![CDATA[sql]]></type>
+<pagination><![CDATA[100]]></pagination>
+<components><![CDATA[YToxOntzOjk6ImN1c3RvbXNxbCI7YToxOntzOjY6ImNvbmZpZyI7Tzo2OiJvYmplY3QiOjY6e3M6ODoicXVlcnlzcWwiO3M6ODM0OiJTRUxFQ1QrdS5maXJzdG5hbWUrQVMrJTI3Rmlyc3QlMjcrJTJDK3UubGFzdG5hbWUrQVMrJTI3TGFzdCUyNyUyQyslMEQlMEFjLmZ1bGxuYW1lK0FTKyUyN0NvdXJzZSUyNyUyQyslMEQlMEFjYy5uYW1lK0FTKyUyN0NhdGVnb3J5JTI3JTJDJTBEJTBBQ0FTRSslMEQlMEErK1dIRU4rZ2kuaXRlbXR5cGUrJTNEKyUyN2NvdXJzZSUyNyslMEQlMEErKytUSEVOK0NPTkNBVCUyOGMuZnVsbG5hbWUlMkMrJTI3Ky0rVG90YWwlMjclMjklMEQlMEErK0VMU0UrZ2kuaXRlbW5hbWUlMEQlMEFFTkQrQVMrJTI3SXRlbStOYW1lJTI3JTJDJTBEJTBBUk9VTkQlMjhnZy5maW5hbGdyYWRlJTJDMiUyOStBUytHcmFkZSUyQyUwRCUwQUZST01fVU5JWFRJTUUlMjhnZy50aW1lbW9kaWZpZWQlMjkrQVMrVElNRSUwRCUwQUZST00rcHJlZml4X2NvdXJzZStBUytjJTBEJTBBSk9JTitwcmVmaXhfY29udGV4dCtBUytjdHgrT04rYy5pZCslM0QrY3R4Lmluc3RhbmNlaWQlMEQlMEFKT0lOK3ByZWZpeF9yb2xlX2Fzc2lnbm1lbnRzK0FTK3JhK09OK3JhLmNvbnRleHRpZCslM0QrY3R4LmlkJTBEJTBBSk9JTitwcmVmaXhfdXNlcitBUyt1K09OK3UuaWQrJTNEK3JhLnVzZXJpZCUwRCUwQUpPSU4rcHJlZml4X2dyYWRlX2dyYWRlcytBUytnZytPTitnZy51c2VyaWQrJTNEK3UuaWQlMEQlMEFKT0lOK3ByZWZpeF9ncmFkZV9pdGVtcytBUytnaStPTitnaS5pZCslM0QrZ2cuaXRlbWlkJTBEJTBBSk9JTitwcmVmaXhfY291cnNlX2NhdGVnb3JpZXMrQVMrY2MrT04rY2MuaWQrJTNEK2MuY2F0ZWdvcnklMEQlMEFXSEVSRSsrZ2kuY291cnNlaWQrJTNEK2MuaWQrJTBEJTBBT1JERVIrQlkrbGFzdG5hbWUiO3M6ODoiY291cnNlaWQiO2k6MTtzOjEyOiJzdWJtaXRidXR0b24iO3M6MTI6IlNhdmUrY2hhbmdlcyI7czoxNjoicmVwb3J0Y2F0ZWdvcmllcyI7czoxOiIwIjtzOjE3OiJyZXBvcnRzaW5jYXRlZ29yeSI7czoxOiIwIjtzOjE0OiJyZW1vdGVxdWVyeXNxbCI7czowOiIiO319fQ==]]></components>
+<export><![CDATA[csv,xls,]]></export>
+<jsordering><![CDATA[1]]></jsordering>
+<global><![CDATA[1]]></global>
+<lastexecutiontime><![CDATA[2]]></lastexecutiontime>
+<cron><![CDATA[0]]></cron>
+</report>
