@@ -8,6 +8,6 @@
 <export><![CDATA[csv,xls,]]></export>
 <jsordering><![CDATA[1]]></jsordering>
 <global><![CDATA[1]]></global>
-<lastexecutiontime><![CDATA[]]></lastexecutiontime>
+<lastexecutiontime><![CDATA[3]]></lastexecutiontime>
 <cron><![CDATA[0]]></cron>
 </report>
