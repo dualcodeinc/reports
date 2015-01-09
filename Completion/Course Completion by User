@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<report version="2011040110"><visible><![CDATA[1]]></visible>
+<name><![CDATA[Course Completion by User]]></name>
+<summary><![CDATA[<p><span>Shows users along with course completion status and date of completion.</span></p>]]></summary>
+<type><![CDATA[sql]]></type>
+<pagination><![CDATA[100]]></pagination>
+<components><![CDATA[YToxOntzOjk6ImN1c3RvbXNxbCI7YToxOntzOjY6ImNvbmZpZyI7Tzo2OiJvYmplY3QiOjY6e3M6ODoicXVlcnlzcWwiO3M6MzYwOiJTRUxFQ1QrdS51c2VybmFtZSthcytVc2VyJTJDK2Muc2hvcnRuYW1lK2FzK0NvdXJzZSUyQysrJTBEJTBBREFURV9GT1JNQVQlMjhGUk9NX1VOSVhUSU1FJTI4cC50aW1lY29tcGxldGVkJTBEJTBBJTI5JTJDJTI3JTI1WS0lMjVtLSUyNWQlMjclMjkrJTBEJTBBQVMrQ29tcGxldGVkJTBEJTBBRlJPTStwcmVmaXhfY291cnNlX2NvbXBsZXRpb25zK0FTK3AlMEQlMEFKT0lOK3ByZWZpeF9jb3Vyc2UrQVMrYytPTitwLmNvdXJzZSslM0QrYy5pZCUwRCUwQUpPSU4rcHJlZml4X3VzZXIrQVMrdStPTitwLnVzZXJpZCslM0QrdS5pZCUwRCUwQVdIRVJFK2MuZW5hYmxlY29tcGxldGlvbislM0QrMSUwRCUwQU9SREVSK0JZK3UudXNlcm5hbWUiO3M6ODoiY291cnNlaWQiO2k6MTtzOjEyOiJzdWJtaXRidXR0b24iO3M6MTI6IlNhdmUrY2hhbmdlcyI7czoxNjoicmVwb3J0Y2F0ZWdvcmllcyI7czoxOiIwIjtzOjE3OiJyZXBvcnRzaW5jYXRlZ29yeSI7czoxOiIwIjtzOjE0OiJyZW1vdGVxdWVyeXNxbCI7czowOiIiO319fQ==]]></components>
+<export><![CDATA[csv,xls,]]></export>
+<jsordering><![CDATA[1]]></jsordering>
+<global><![CDATA[1]]></global>
+<lastexecutiontime><![CDATA[2]]></lastexecutiontime>
+<cron><![CDATA[0]]></cron>
+</report>
