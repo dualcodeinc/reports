@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<report version="2011040110"><visible><![CDATA[1]]></visible>
+<name><![CDATA[User Count by Course]]></name>
+<summary><![CDATA[<p><span>Counts the number of distinct users in each course and provides a link to go directly to the course or to see the exact list of users.</span></p>]]></summary>
+<type><![CDATA[sql]]></type>
+<pagination><![CDATA[100]]></pagination>
+<components><![CDATA[YToxOntzOjk6ImN1c3RvbXNxbCI7YToxOntzOjY6ImNvbmZpZyI7Tzo2OiJvYmplY3QiOjY6e3M6ODoicXVlcnlzcWwiO3M6NzYyOiJTRUxFQ1QrY29uY2F0JTI4JTI3JTNDYSt0YXJnZXQlM0QlMjJfbmV3JTIyK2hyZWYlM0QlMjIlMjUlMjVXV1dST09UJTI1JTI1JTJGY291cnNlJTJGdmlldy5waHAlM0ZpZCUzRCUyNyUyQ2NvdXJzZS5pZCUyQyUyNyUyMiUzRSUyNyUyQ2NvdXJzZS5zaG9ydG5hbWUlMkMlMjclM0MlMkZhJTNFJTI3JTI5K0FTK0NvdXJzZSUwRCUwQSUyQ2NvbmNhdCUyOCUyNyUzQ2ErdGFyZ2V0JTNEJTIyX25ldyUyMitocmVmJTNEJTIyJTI1JTI1V1dXUk9PVCUyNSUyNSUyRnVzZXIlMkZpbmRleC5waHAlM0Zjb250ZXh0aWQlM0QlMjclMkNjb250ZXh0LmlkJTJDJTI3JTIyJTNFU2hvdyt1c2VycyUzQyUyRmElM0UlMjclMjkrQVMrVXNlcnMlMEQlMEElMkNDT1VOVCUyOGNvdXJzZS5pZCUyOStBUytTdHVkZW50cyUwRCUwQUZST00rcHJlZml4X3JvbGVfYXNzaWdubWVudHMrQVMrYXNnJTBEJTBBSk9JTitwcmVmaXhfY29udGV4dCtBUytjb250ZXh0K09OK2FzZy5jb250ZXh0aWQrJTNEK2NvbnRleHQuaWQrQU5EK2NvbnRleHQuY29udGV4dGxldmVsKyUzRCs1MCUwRCUwQUpPSU4rcHJlZml4X3VzZXIrQVMrVVNFUitPTitVU0VSLmlkKyUzRCthc2cudXNlcmlkJTBEJTBBSk9JTitwcmVmaXhfY291cnNlK0FTK2NvdXJzZStPTitjb250ZXh0Lmluc3RhbmNlaWQrJTNEK2NvdXJzZS5pZCUwRCUwQVdIRVJFK2FzZy5yb2xlaWQrJTNEKzUrJTBEJTBBR1JPVVArQlkrY291cnNlLnNob3J0bmFtZSUwRCUwQU9SREVSK0JZK0NPVU5UJTI4Y291cnNlLmlkJTI5K0RFU0MiO3M6ODoiY291cnNlaWQiO2k6MTtzOjEyOiJzdWJtaXRidXR0b24iO3M6MTI6IlNhdmUrY2hhbmdlcyI7czoxNjoicmVwb3J0Y2F0ZWdvcmllcyI7czoxOiIwIjtzOjE3OiJyZXBvcnRzaW5jYXRlZ29yeSI7czoxOiIwIjtzOjE0OiJyZW1vdGVxdWVyeXNxbCI7czowOiIiO319fQ==]]></components>
+<export><![CDATA[csv,xls,]]></export>
+<jsordering><![CDATA[1]]></jsordering>
+<global><![CDATA[1]]></global>
+<lastexecutiontime><![CDATA[2]]></lastexecutiontime>
+<cron><![CDATA[0]]></cron>
+</report>
