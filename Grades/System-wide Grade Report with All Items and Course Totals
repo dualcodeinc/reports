@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<report version="2011040110"><visible><![CDATA[1]]></visible>
+<name><![CDATA[System-wide Grade Report with All Items and Course Totals]]></name>
+<summary><![CDATA[<p><span>Shows the grade for all items and the course total in each course for each student.</span></p>]]></summary>
+<type><![CDATA[sql]]></type>
+<pagination><![CDATA[100]]></pagination>
+<components><![CDATA[YToxOntzOjk6ImN1c3RvbXNxbCI7YToxOntzOjY6ImNvbmZpZyI7Tzo2OiJvYmplY3QiOjY6e3M6ODoicXVlcnlzcWwiO3M6ODU5OiJTRUxFQ1QrdS5maXJzdG5hbWUrQVMrJTI3Rmlyc3QlMjcrJTJDK3UubGFzdG5hbWUrQVMrJTI3TGFzdCUyNyUyQyslMEQlMEFjLmZ1bGxuYW1lK0FTKyUyN0NvdXJzZSUyNyUyQyslMEQlMEFjYy5uYW1lK0FTKyUyN0NhdGVnb3J5JTI3JTJDJTBEJTBBQ0FTRSslMEQlMEErK1dIRU4rZ2kuaXRlbXR5cGUrJTNEKyUyN2NvdXJzZSUyNyslMEQlMEErKytUSEVOK2MuZnVsbG5hbWUrJTJCKyUyNytDb3Vyc2UrVG90YWwlMjclMEQlMEErK0VMU0UrZ2kuaXRlbW5hbWUlMEQlMEFFTkQrQVMrJTI3SXRlbStOYW1lJTI3JTJDJTBEJTBBUk9VTkQlMjhnZy5maW5hbGdyYWRlJTJDMiUyOStBUytHcmFkZSUyQyUwRCUwQURBVEVfQUREJTI4JTI3MTk3MC0wMS0wMSUyNyUyQytJTlRFUlZBTCtnaS50aW1lbW9kaWZpZWQrU0VDT05EJTI5K0FTK1RpbWUlMEQlMEFGUk9NK3ByZWZpeF9jb3Vyc2UrQVMrYyUwRCUwQUpPSU4rcHJlZml4X2NvbnRleHQrQVMrY3R4K09OK2MuaWQrJTNEK2N0eC5pbnN0YW5jZWlkJTBEJTBBSk9JTitwcmVmaXhfcm9sZV9hc3NpZ25tZW50cytBUytyYStPTityYS5jb250ZXh0aWQrJTNEK2N0eC5pZCUwRCUwQUpPSU4rcHJlZml4X3VzZXIrQVMrdStPTit1LmlkKyUzRCtyYS51c2VyaWQlMEQlMEFKT0lOK3ByZWZpeF9ncmFkZV9ncmFkZXMrQVMrZ2crT04rZ2cudXNlcmlkKyUzRCt1LmlkJTBEJTBBSk9JTitwcmVmaXhfZ3JhZGVfaXRlbXMrQVMrZ2krT04rZ2kuaWQrJTNEK2dnLml0ZW1pZCUwRCUwQUpPSU4rcHJlZml4X2NvdXJzZV9jYXRlZ29yaWVzK0FTK2NjK09OK2NjLmlkKyUzRCtjLmNhdGVnb3J5JTBEJTBBV0hFUkUrK2dpLmNvdXJzZWlkKyUzRCtjLmlkKyUwRCUwQU9SREVSK0JZK2xhc3RuYW1lIjtzOjg6ImNvdXJzZWlkIjtpOjE7czoxMjoic3VibWl0YnV0dG9uIjtzOjEyOiJTYXZlK2NoYW5nZXMiO3M6MTY6InJlcG9ydGNhdGVnb3JpZXMiO3M6MToiMCI7czoxNzoicmVwb3J0c2luY2F0ZWdvcnkiO3M6MToiMCI7czoxNDoicmVtb3RlcXVlcnlzcWwiO3M6MDoiIjt9fX0=]]></components>
+<export><![CDATA[csv,xls,]]></export>
+<jsordering><![CDATA[1]]></jsordering>
+<global><![CDATA[1]]></global>
+<lastexecutiontime><![CDATA[2]]></lastexecutiontime>
+<cron><![CDATA[0]]></cron>
+</report>
