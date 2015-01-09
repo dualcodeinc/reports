@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<report version="2011040110"><visible><![CDATA[1]]></visible>
+<name><![CDATA[Most Active Courses]]></name>
+<summary><![CDATA[<p><span>Lists the most active courses by number of ‘hits’.</span></p>]]></summary>
+<type><![CDATA[sql]]></type>
+<pagination><![CDATA[100]]></pagination>
+<components><![CDATA[YToxOntzOjk6ImN1c3RvbXNxbCI7YToxOntzOjY6ImNvbmZpZyI7Tzo2OiJvYmplY3QiOjY6e3M6ODoicXVlcnlzcWwiO3M6MTg4OiJTRUxFQ1QrYy5zaG9ydG5hbWUrY291cnNlJTJDK0NPVU5UJTI4bC5pZCUyOStoaXRzJTJDK2wuY291cnNlK2NvdXJzZUlkJTBEJTBBRlJPTStwcmVmaXhfbG9nK2wrSU5ORVIrSk9JTitwcmVmaXhfY291cnNlK2MrT04rbC5jb3Vyc2UrJTNEK2MuaWQlMEQlMEFHUk9VUCtCWStjb3Vyc2VJZCUwRCUwQU9SREVSK0JZK2hpdHMrREVTQyI7czo4OiJjb3Vyc2VpZCI7aToxO3M6MTI6InN1Ym1pdGJ1dHRvbiI7czoxMjoiU2F2ZStjaGFuZ2VzIjtzOjE2OiJyZXBvcnRjYXRlZ29yaWVzIjtzOjE6IjAiO3M6MTc6InJlcG9ydHNpbmNhdGVnb3J5IjtzOjE6IjAiO3M6MTQ6InJlbW90ZXF1ZXJ5c3FsIjtzOjA6IiI7fX19]]></components>
+<export><![CDATA[csv,xls,]]></export>
+<jsordering><![CDATA[1]]></jsordering>
+<global><![CDATA[1]]></global>
+<lastexecutiontime><![CDATA[]]></lastexecutiontime>
+<cron><![CDATA[0]]></cron>
+</report>
