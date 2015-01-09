@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<report version="2011040110"><visible><![CDATA[1]]></visible>
+<name><![CDATA[Logins and Actions by User]]></name>
+<summary><![CDATA[<p><span>Lists the number of logins and actions/activity for each user.</span></p>]]></summary>
+<type><![CDATA[sql]]></type>
+<pagination><![CDATA[100]]></pagination>
+<components><![CDATA[YToxOntzOjk6ImN1c3RvbXNxbCI7YToxOntzOjY6ImNvbmZpZyI7Tzo2OiJvYmplY3QiOjY6e3M6ODoicXVlcnlzcWwiO3M6NTI5OiJTRUxFQ1QrY29uY2F0JTI4JTI3JTNDYSt0YXJnZXQlM0QlMjJfbmV3JTIyK2hyZWYlM0QlMjIlMjUlMjVXV1dST09UJTI1JTI1JTJGY291cnNlJTJGdXNlci5waHAlM0ZpZCUzRDElMjZ1c2VyJTNEJTI3JTJDdS5pZCUyQyUyNyUyNm1vZGUlM0RhbGxsb2dzJTIyJTNFJTI3JTBEJTBBJTJDdS5maXJzdG5hbWUrJTJDJTI3KyUyNyUyQ3UubGFzdG5hbWUlMkMlMjclM0MlMkZhJTNFJTI3JTI5K0FTK1VzZXIlMEQlMEElMkNDT1VOVCUyOCUyQSUyOStBUytsb2dpbnMlMEQlMEElMkMlMjhTRUxFQ1QrQ09VTlQlMjglMkElMjkrRlJPTStwcmVmaXhfbG9nK1dIRVJFK3VzZXJpZCslM0QrbC51c2VyaWQrR1JPVVArQlkrdXNlcmlkJTI5K0FTK0FjdGl2aXR5KyUwRCUwQUZST00rcHJlZml4X2xvZytBUytsK0pPSU4rcHJlZml4X3VzZXIrQVMrdStPTitsLnVzZXJpZCslM0QrdS5pZCslMEQlMEFXSEVSRSslNjBhY3Rpb24lNjArTElLRSslMjclMjVsb2dpbiUyNSUyNytHUk9VUCtCWSt1c2VyaWQlMEQlMEFPUkRFUitCWStBY3Rpdml0eStERVNDIjtzOjg6ImNvdXJzZWlkIjtpOjE7czoxMjoic3VibWl0YnV0dG9uIjtzOjEyOiJTYXZlK2NoYW5nZXMiO3M6MTY6InJlcG9ydGNhdGVnb3JpZXMiO3M6MToiMCI7czoxNzoicmVwb3J0c2luY2F0ZWdvcnkiO3M6MToiMCI7czoxNDoicmVtb3RlcXVlcnlzcWwiO3M6MDoiIjt9fX0=]]></components>
+<export><![CDATA[csv,xls,]]></export>
+<jsordering><![CDATA[1]]></jsordering>
+<global><![CDATA[1]]></global>
+<lastexecutiontime><![CDATA[30]]></lastexecutiontime>
+<cron><![CDATA[0]]></cron>
+</report>
