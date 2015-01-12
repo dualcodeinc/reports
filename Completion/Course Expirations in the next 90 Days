@@ -1,0 +1,18 @@
+SELECT u.city AS 'City',
+c.shortname AS 'Course',
+u.firstname AS 'Firstname',
+u.lastname AS 'Lastname',
+from_unixtime(d.timestamp,'%M %D %Y') AS 'Received',
+CONCAT(json_extract(oe.value,'course_retake_days'), ' days') AS 'Valid For',
+from_unixtime(d.timestamp + json_extract(oe.value,'course_retake_days') * 86400,'%M %D %Y') AS 'Expires On'
+FROM prefix_user AS u
+INNER JOIN prefix_lrs_actor AS a ON u.id = a.account_name
+LEFT JOIN prefix_lrs_data AS d ON a.id = d.actorid
+LEFT JOIN prefix_lrs_object AS o ON d.objectid = o.id
+LEFT JOIN prefix_lrs_object_extensions AS oe ON o.object_defid = oe.object_defid
+LEFT JOIN prefix_course AS c on substring_index(o.id_def,'id=',-1) = c.id
+WHERE o.id_def LIKE '%%WWWROOT%%/course/%'
+AND json_extract(oe.value,'course_retake_days') > '0'
+AND from_unixtime(d.timestamp + json_extract(oe.value,'course_retake_days') * 86400) < DATE_ADD(CURDATE(),INTERVAL 90 DAY)
+AND u.deleted = '0' AND suspended = '0'
+ORDER BY u.city,c.shortname,u.firstname,u.lastname
