@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<report version="2011040110"><visible><![CDATA[1]]></visible>
+<name><![CDATA[Certificate of Completion Codes]]></name>
+<summary><![CDATA[<p>This report lists all valid codes for the Certificates of Completion (mod_certificate) thereby allowing an administrator to verify the authenticity of certificates.</p>]]></summary>
+<type><![CDATA[sql]]></type>
+<pagination><![CDATA[100]]></pagination>
+<components><![CDATA[YToxOntzOjk6ImN1c3RvbXNxbCI7YToxOntzOjY6ImNvbmZpZyI7Tzo2OiJvYmplY3QiOjY6e3M6ODoicXVlcnlzcWwiO3M6NDU3OiJTRUxFQ1QrdS5maXJzdG5hbWUrQVMrJTI3Rmlyc3RuYW1lJTI3JTJDdS5sYXN0bmFtZStBUyslMjdMYXN0bmFtZSUyNyUyQ2Muc2hvcnRuYW1lK2FzKyUyN0NvdXJzZSUyNyUyQ2NpLmNvZGUrQVMrJTI3Q29kZSUyNyUyQ2Zyb21fdW5peHRpbWUlMjhjaS50aW1lY3JlYXRlZCUyQyUyNyUyNU0rJTI1RCslMjVZJTI3JTI5K0FTKyUyN0lzc3VlZCUyNyUwRCUwQUZST00rcHJlZml4X2NlcnRpZmljYXRlX2lzc3VlcytBUytjaSUwRCUwQUpPSU4rcHJlZml4X3VzZXIrQVMrdStPTitjaS51c2VyaWQrJTNEK3UuaWQlMEQlMEFKT0lOK3ByZWZpeF9jZXJ0aWZpY2F0ZStBUytjZStPTitjaS5jZXJ0aWZpY2F0ZWlkKyUzRCtjZS5pZCUwRCUwQUpPSU4rcHJlZml4X2NvdXJzZStBUytjK09OK2NlLmNvdXJzZSslM0QrYy5pZCUwRCUwQU9SREVSK0JZK3UuZmlyc3RuYW1lJTJDdS5sYXN0bmFtZSUyQ2Muc2hvcnRuYW1lIjtzOjg6ImNvdXJzZWlkIjtpOjE7czoxMjoic3VibWl0YnV0dG9uIjtzOjEyOiJTYXZlK2NoYW5nZXMiO3M6MTY6InJlcG9ydGNhdGVnb3JpZXMiO3M6MToiMCI7czoxNzoicmVwb3J0c2luY2F0ZWdvcnkiO3M6MToiMCI7czoxNDoicmVtb3RlcXVlcnlzcWwiO3M6MDoiIjt9fX0=]]></components>
+<export><![CDATA[csv,xls,]]></export>
+<jsordering><![CDATA[1]]></jsordering>
+<global><![CDATA[1]]></global>
+<lastexecutiontime><![CDATA[1]]></lastexecutiontime>
+<cron><![CDATA[0]]></cron>
+</report>
