@@ -1,19 +1,21 @@
-SELECT 
-    u.city AS 'City',
-    c.shortname AS 'Course',
-    u.firstname AS 'Firstname',
-    u.lastname AS 'Lastname',
-    FROM_UNIXTIME(lrs.timestamp, '%M %D %Y') AS 'Completed',
-    FROM_UNIXTIME(lrs.expires, '%M %D %Y') AS 'Expires_On'
-FROM
-    view_prefix_lrs_simple lrs
-        JOIN
-    prefix_user u ON u.id = lrs.userid
-        JOIN
-    prefix_course c ON c.id = lrs.objectid
-        AND lrs.objecttype = 'course'
-WHERE
-    lrs.expires > (UNIX_TIMESTAMP() - (90 * 86400))
-        AND u.deleted = 0
-        AND u.suspended = 0
-ORDER BY u.city , c.shortname , u.firstname , u.lastname
+<?xml version="1.0" encoding="UTF-8" ?>
+<report version="2016020104.04"><visible><![CDATA[1]]></visible>
+<name><![CDATA[Courses expiring in 90 days or less]]></name>
+<summary><![CDATA[]]></summary>
+<type><![CDATA[sql]]></type>
+<pagination><![CDATA[0]]></pagination>
+<components><![CDATA[YToxOntzOjk6ImN1c3RvbXNxbCI7YToxOntzOjY6ImNvbmZpZyI7Tzo4OiJzdGRDbGFzcyI6Njp7czo4OiJxdWVyeXNxbCI7czo3ODA6IlNFTEVDVCslMEQlMEErKysrdS5jaXR5K0FTKyUyN0NpdHklMjclMkMlMEQlMEErKysrYy5zaG9ydG5hbWUrQVMrJTI3Q291cnNlJTI3JTJDJTBEJTBBKysrK3UuZmlyc3RuYW1lK0FTKyUyN0ZpcnN0bmFtZSUyNyUyQyUwRCUwQSsrKyt1Lmxhc3RuYW1lK0FTKyUyN0xhc3RuYW1lJTI3JTJDJTBEJTBBKysrK0ZST01fVU5JWFRJTUUlMjhscnMudGltZXN0YW1wJTJDKyUyNyUyNU0rJTI1RCslMjVZJTI3JTI5K0FTKyUyN0NvbXBsZXRlZCUyNyUyQyUwRCUwQSsrKytGUk9NX1VOSVhUSU1FJTI4bHJzLmV4cGlyZXMlMkMrJTI3JTI1TSslMjVEKyUyNVklMjclMjkrQVMrJTI3RXhwaXJlc19PbiUyNyUwRCUwQUZST00lMEQlMEErKysrdmlld19tZGxfbHJzX3NpbXBsZStscnMlMEQlMEErKysrKysrK0pPSU4lMEQlMEErKysrcHJlZml4X3VzZXIrdStPTit1LmlkKyUzRCtscnMudXNlcmlkJTBEJTBBKysrKysrKytKT0lOJTBEJTBBKysrK3ByZWZpeF9jb3Vyc2UrYytPTitjLmlkKyUzRCtscnMub2JqZWN0aWQlMEQlMEErKysrKysrK0FORCtscnMub2JqZWN0dHlwZSslM0QrJTI3Y291cnNlJTI3JTBEJTBBV0hFUkUlMEQlMEErKysrbHJzLmV4cGlyZXMrJTNFKyUyOFVOSVhfVElNRVNUQU1QJTI4JTI5Ky0rJTI4OTArJTJBKzg2NDAwJTI5JTI5JTBEJTBBKysrKysrKytBTkQrdS5kZWxldGVkKyUzRCswJTBEJTBBKysrKysrKytBTkQrdS5zdXNwZW5kZWQrJTNEKzAlMEQlMEFPUkRFUitCWSt1LmNpdHkrJTJDK2Muc2hvcnRuYW1lKyUyQyt1LmZpcnN0bmFtZSslMkMrdS5sYXN0bmFtZSI7czo4OiJjb3Vyc2VpZCI7aToxO3M6MTI6InN1Ym1pdGJ1dHRvbiI7czoxMjoiU2F2ZStjaGFuZ2VzIjtzOjE2OiJyZXBvcnRjYXRlZ29yaWVzIjtzOjE6IjAiO3M6MTc6InJlcG9ydHNpbmNhdGVnb3J5IjtzOjE6IjAiO3M6MTQ6InJlbW90ZXF1ZXJ5c3FsIjtzOjA6IiI7fX19]]></components>
+<export><![CDATA[]]></export>
+<jsordering><![CDATA[1]]></jsordering>
+<global><![CDATA[0]]></global>
+<lastexecutiontime><![CDATA[268]]></lastexecutiontime>
+<cron><![CDATA[0]]></cron>
+<remote><![CDATA[0]]></remote>
+<archiving_enable><![CDATA[0]]></archiving_enable>
+<archiving_format><![CDATA[csv]]></archiving_format>
+<archiving_timeofday_hour><![CDATA[0]]></archiving_timeofday_hour>
+<archiving_timeofday_minute><![CDATA[0]]></archiving_timeofday_minute>
+<archiving_nextdate><![CDATA[0]]></archiving_nextdate>
+<archiving_frequency><![CDATA[604800]]></archiving_frequency>
+<archiving_timestampfile><![CDATA[1]]></archiving_timestampfile>
+</report>
