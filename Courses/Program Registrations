@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<report version="2019021500"><visible><![CDATA[1]]></visible>
+<name><![CDATA[Program Registrations]]></name>
+<summary><![CDATA[]]></summary>
+<summaryformat><![CDATA[1]]></summaryformat>
+<type><![CDATA[sql]]></type>
+<pagination><![CDATA[0]]></pagination>
+<components><![CDATA[YToxOntzOjk6ImN1c3RvbXNxbCI7YToxOntzOjY6ImNvbmZpZyI7Tzo4OiJzdGRDbGFzcyI6Njp7czo4OiJxdWVyeXNxbCI7czozNjA6InNlbGVjdCt1LmlkK2FzK3VzZXJpZCUyQytjb25jYXQlMjh1LmZpcnN0bmFtZSUyQyslMjcrJTI3KyUyQyt1Lmxhc3RuYW1lJTI5K2FzKyUyN0Z1bGwrTmFtZSUyNyUyQytwLm5hbWUrYXMrUHJvZ3JhbSUyQytwci5zb3VyY2UrYXMrc291cmNlJTJDK0ZST01fVU5JWFRJTUUlMjhwci50aW1lY3JlYXRlZCUyOSthcytkYXRlK2Zyb20lMEQlMEFwcmVmaXhfcHJvZ3JhbV9yZWdpc3RlcmVkK3ByJTBEJTBBKyUwRCUwQWpvaW4rcHJlZml4X3Byb2dyYW0rcCtvbitwci5wcm9ncmFtaWQrJTNEK3AuaWQlMEQlMEFqb2luK3ByZWZpeF91c2VyK3Urb24rcHIudXNlcmlkKyUzRCt1LmlkJTBEJTBBKyUwRCUwQWdyb3VwK2J5K3UuaWQlMkMrcC5pZCI7czo4OiJjb3Vyc2VpZCI7aToxO3M6MTI6InN1Ym1pdGJ1dHRvbiI7czoxMjoiU2F2ZStjaGFuZ2VzIjtzOjE2OiJyZXBvcnRjYXRlZ29yaWVzIjtzOjE6IjAiO3M6MTc6InJlcG9ydHNpbmNhdGVnb3J5IjtzOjE6IjAiO3M6MTQ6InJlbW90ZXF1ZXJ5c3FsIjtzOjA6IiI7fX19]]></components>
+<export><![CDATA[csv,]]></export>
+<jsordering><![CDATA[1]]></jsordering>
+<global><![CDATA[1]]></global>
+<lastexecutiontime><![CDATA[1]]></lastexecutiontime>
+<cron><![CDATA[0]]></cron>
+<remote><![CDATA[0]]></remote>
+<archiving_enable><![CDATA[0]]></archiving_enable>
+<archiving_format><![CDATA[csv]]></archiving_format>
+<archiving_timeofday_hour><![CDATA[0]]></archiving_timeofday_hour>
+<archiving_timeofday_minute><![CDATA[0]]></archiving_timeofday_minute>
+<archiving_nextdate><![CDATA[0]]></archiving_nextdate>
+<archiving_frequency><![CDATA[604800]]></archiving_frequency>
+<archiving_timestampfile><![CDATA[1]]></archiving_timestampfile>
+</report>
