@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<report version="2019021500.01"><visible><![CDATA[1]]></visible>
+<name><![CDATA[List of Courses by Program]]></name>
+<summary><![CDATA[]]></summary>
+<summaryformat><![CDATA[1]]></summaryformat>
+<type><![CDATA[sql]]></type>
+<pagination><![CDATA[0]]></pagination>
+<components><![CDATA[YToxOntzOjk6ImN1c3RvbXNxbCI7YToxOntzOjY6ImNvbmZpZyI7Tzo4OiJzdGRDbGFzcyI6Njp7czo4OiJxdWVyeXNxbCI7czoyNDg6InNlbGVjdCtwYy5wcm9ncmFtaWQrYXMrcHJvZ3JhbV9pZCUyQytwLm5hbWUrYXMrcHJvZ3JhbV9uYW1lJTJDK2MuaWQrYXMrY291cnNlX2lkJTJDK2Muc2hvcnRuYW1lK2FzK2NvdXJzZV9zaG9ydG5hbWUrZnJvbStwcmVmaXhfcHJvZ3JhbV9jb3Vyc2VzK3BjJTBEJTBBam9pbitiaV9tZGxfcHJvZ3JhbStwK29uK3AuaWQrJTNEK3BjLnByb2dyYW1pZCUwRCUwQWpvaW4rcHJlZml4X2NvdXJzZStjK29uK2MuaWQrJTNEK3BjLmNvdXJzZWlkIjtzOjg6ImNvdXJzZWlkIjtpOjE7czoxMjoic3VibWl0YnV0dG9uIjtzOjEyOiJTYXZlK2NoYW5nZXMiO3M6MTY6InJlcG9ydGNhdGVnb3JpZXMiO3M6MToiMCI7czoxNzoicmVwb3J0c2luY2F0ZWdvcnkiO3M6MToiMCI7czoxNDoicmVtb3RlcXVlcnlzcWwiO3M6MDoiIjt9fX0=]]></components>
+<export><![CDATA[csv,]]></export>
+<jsordering><![CDATA[1]]></jsordering>
+<global><![CDATA[1]]></global>
+<lastexecutiontime><![CDATA[1]]></lastexecutiontime>
+<cron><![CDATA[0]]></cron>
+<remote><![CDATA[0]]></remote>
+<archiving_enable><![CDATA[0]]></archiving_enable>
+<archiving_username><![CDATA[]]></archiving_username>
+<archiving_subfolder><![CDATA[]]></archiving_subfolder>
+<archiving_format><![CDATA[]]></archiving_format>
+<archiving_timeofday_hour><![CDATA[0]]></archiving_timeofday_hour>
+<archiving_timeofday_minute><![CDATA[0]]></archiving_timeofday_minute>
+<archiving_nextdate><![CDATA[0]]></archiving_nextdate>
+<archiving_frequency><![CDATA[0]]></archiving_frequency>
+<archiving_timestampfile><![CDATA[0]]></archiving_timestampfile>
+</report>
