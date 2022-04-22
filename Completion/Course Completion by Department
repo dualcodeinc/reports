@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <report version="2020110300"><visible><![CDATA[1]]></visible>
-<name><![CDATA[Course Completion By Custom Department Field]]></name>
+<name><![CDATA[Course Completion By Department]]></name>
 <summary><![CDATA[<p dir="ltr" style="text-align:left;"></p><p dir="ltr">Lists all users enrolled in a course, and the last date they completed the course. Also includes users who never completed the course (but are enrolled in it).<br></p><p dir="ltr">This report assumes Department is stored in a User Profile Field with shortname 'department'</p><p dir="ltr">If you have your Department field stored in a custom field with a different shortname, replace 'shortname=department' with 'shortname=' and the shortname of the field that holds department information in a copy of this report.&nbsp;</p><p dir="ltr">As a reminder, you can find your User Profile Fields by going to <strong>Site Administration &gt; Users &gt; Accounts &gt; User profile fields</strong></p><p dir="ltr">Repository version last modified: 8-APR-2022</p><br><p></p>]]></summary>
 <summaryformat><![CDATA[1]]></summaryformat>
 <type><![CDATA[sql]]></type>
@@ -9,7 +9,7 @@
 <export><![CDATA[csv,xls,]]></export>
 <jsordering><![CDATA[1]]></jsordering>
 <global><![CDATA[1]]></global>
-<lastexecutiontime><![CDATA[2766]]></lastexecutiontime>
+<lastexecutiontime><![CDATA[2352]]></lastexecutiontime>
 <cron><![CDATA[0]]></cron>
 <remote><![CDATA[0]]></remote>
 <archiving_enable><![CDATA[0]]></archiving_enable>
