@@ -1,13 +1,25 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<report version="2011040110"><visible><![CDATA[1]]></visible>
+<report version="2020110300"><visible><![CDATA[1]]></visible>
 <name><![CDATA[External Records]]></name>
-<summary><![CDATA[]]></summary>
+<summary><![CDATA[<p dir="ltr" style="text-align:left;">This report shows all External Records uploaded to the LMS for non-suspended, non-deleted users.</p><p dir="ltr" style="text-align:left;">If a certificate file was provided, you can access the file by clicking&nbsp; the "View / Download" link.</p><p dir="ltr" style="text-align:left;">If a certificate file was not provided you will be brought to the External Record search instead of to the certificate itself.</p><p dir="ltr" style="text-align:left;"><br></p><p dir="ltr" style="text-align:left;">Repository version last modified:&nbsp;19-APR-2022</p>]]></summary>
+<summaryformat><![CDATA[1]]></summaryformat>
 <type><![CDATA[sql]]></type>
-<pagination><![CDATA[100]]></pagination>
-<components><![CDATA[YToxOntzOjk6ImN1c3RvbXNxbCI7YToxOntzOjY6ImNvbmZpZyI7Tzo2OiJvYmplY3QiOjY6e3M6ODoicXVlcnlzcWwiO3M6MTQzMjoiU0VMRUNUK2Muc2hvcnRuYW1lK0FTKyUyN0NvdXJzZSUyNyUyQyUwRCUwQXUuZmlyc3RuYW1lK0FTKyUyN0ZpcnN0bmFtZSUyNyUyQyUwRCUwQXUubGFzdG5hbWUrQVMrJTI3TGFzdG5hbWUlMjclMkMlMEQlMEFmcm9tX3VuaXh0aW1lJTI4ZC50aW1lc3RhbXAlMkMlMjclMjVNKyUyNUQrJTI1WSUyNyUyOStBUyslMjdSZWNlaXZlZCUyNyUyQyUwRCUwQUNPTkNBVCUyOGpzb25fZXh0cmFjdCUyOG9lLnZhbHVlJTJDJTI3Y291cnNlX3JldGFrZV9kYXlzJTI3JTI5JTJDKyUyNytkYXlzJTI3JTI5K0FTKyUyN1ZhbGlkK0ZvciUyNyUyQyUwRCUwQWZyb21fdW5peHRpbWUlMjhkLnRpbWVzdGFtcCslMkIranNvbl9leHRyYWN0JTI4b2UudmFsdWUlMkMlMjdjb3Vyc2VfcmV0YWtlX2RheXMlMjclMjkrJTJBKzg2NDAwJTJDJTI3JTI1TSslMjVEKyUyNVklMjclMjkrQVMrJTI3RXhwaXJlcytPbiUyNyUyQyUwRCUwQWpzb25fZXh0cmFjdCUyOG9lLnZhbHVlJTJDJTI3Y2VydGlmaWNhdGVfbnVtYmVyJTI3JTI5K0FTKyUyN0NlcnRpZmljYXRlK051bWJlciUyNyUyQyUwRCUwQWNvbmNhdCUyOCUyNyUzQ2ErdGFyZ2V0JTNEJTIyX25ldyUyMitocmVmJTNEJTIyJTI1JTI1V1dXUk9PVCUyNSUyNSUyRmxvY2FsJTJGbHJzX2NvdXJzZWV4ZW1wdGlvbiUyRnZpZXdmaWxlLnBocCUzRmlkJTNEJTI3JTJDanNvbl9leHRyYWN0JTI4b2UudmFsdWUlMkMlMjdjZXJ0aWZpY2F0ZV9maWxlX2lkJTI3JTI5KyUyQyUyNyUyMiUzRVZpZXcrJTJGK0Rvd25sb2FkJTNDJTJGYSUzRSUyNyUyOStBUyslMjdDZXJ0aWZpY2F0ZSUyNyUwRCUwQUZST00rcHJlZml4X3VzZXIrQVMrdSUwRCUwQUlOTkVSK0pPSU4rcHJlZml4X2xyc19hY3RvcitBUythK09OK3UuaWQrJTNEK2EuYWNjb3VudF9uYW1lJTBEJTBBTEVGVCtKT0lOK3ByZWZpeF9scnNfZGF0YStBUytkK09OK2EuaWQrJTNEK2QuYWN0b3JpZCUwRCUwQUxFRlQrSk9JTitwcmVmaXhfbHJzX29iamVjdCtBUytvK09OK2Qub2JqZWN0aWQrJTNEK28uaWQlMEQlMEFMRUZUK0pPSU4rcHJlZml4X2xyc19vYmplY3RfZXh0ZW5zaW9ucytBUytvZStPTitvLm9iamVjdF9kZWZpZCslM0Qrb2Uub2JqZWN0X2RlZmlkJTBEJTBBTEVGVCtKT0lOK3ByZWZpeF9jb3Vyc2UrQVMrYytvbitzdWJzdHJpbmdfaW5kZXglMjhvLmlkX2RlZiUyQyUyN2lkJTNEJTI3JTJDLTElMjkrJTNEK2MuaWQlMEQlMEFXSEVSRStvLmlkX2RlZitMSUtFKyUyNyUyNSUyNVdXV1JPT1QlMjUlMjUlMkZjb3Vyc2UlMkYlMjUlMjclMEQlMEFBTkQranNvbl9leHRyYWN0JTI4b2UudmFsdWUlMkMlMjdpc19leGVtcHRpb24lMjclMjkrJTNEKyUyNzElMjclMEQlMEFBTkQrdS5kZWxldGVkKyUzRCslMjcwJTI3K0FORCtzdXNwZW5kZWQrJTNEKyUyNzAlMjclMEQlMEFPUkRFUitCWStjLnNob3J0bmFtZSUyQ3UuZmlyc3RuYW1lJTJDdS5sYXN0bmFtZSI7czo4OiJjb3Vyc2VpZCI7aToxO3M6MTI6InN1Ym1pdGJ1dHRvbiI7czoxMjoiU2F2ZStjaGFuZ2VzIjtzOjE2OiJyZXBvcnRjYXRlZ29yaWVzIjtzOjE6IjAiO3M6MTc6InJlcG9ydHNpbmNhdGVnb3J5IjtzOjE6IjAiO3M6MTQ6InJlbW90ZXF1ZXJ5c3FsIjtzOjA6IiI7fX19]]></components>
+<pagination><![CDATA[0]]></pagination>
+<components><![CDATA[YToxOntzOjk6ImN1c3RvbXNxbCI7YToxOntzOjY6ImNvbmZpZyI7Tzo4OiJzdGRDbGFzcyI6Njp7czo4OiJxdWVyeXNxbCI7czo5NzQ6IlNFTEVDVCtvZC5vYmplY3RpZCtBUyslMjdDb3Vyc2UlMjclMEQlMEErKysrKyUyQ3UuZmlyc3RuYW1lJTBEJTBBKysrKyslMkN1Lmxhc3RuYW1lJTBEJTBBKysrKyslMkN0aW1lc3RhbXAlMEQlMEErKysrKyUyQ2xyc2lkJTBEJTBBKysrKyslMkNjb25jYXQlMjglMjclM0NhK3RhcmdldCUzRCUyMl9uZXclMjIraHJlZiUzRCUyMiUyNSUyNVdXV1JPT1QlMjUlMjUlMkZyZXBvcnQlMkZleHRlcm5hbCUyRnZpZXdjZXJ0LnBocCUzRmlkJTNEJTI3JTJDSlNPTl9FWFRSQUNUJTI4b2UudmFsdWUlMkMlMjclMjQuY2VydGlmaWNhdGUlMjclMjkrJTJDJTI3JTIyJTNFVmlldyslMkYrRG93bmxvYWQlM0MlMkZhJTNFJTI3JTI5K0FTKyUyN0NlcnRpZmljYXRlJTI3JTBEJTBBZnJvbStwcmVmaXhfbHJzX2RhdGErQVMrZCUwRCUwQSsrKysrKysrK0pPSU4rcHJlZml4X2xyc19hY3RvcitBUythK29uK2QuYWN0b3JpZCslM0QrYS5pZCUwRCUwQSsrKysrKysrK0pPSU4rcHJlZml4X3VzZXIrQVMrdStPTithLmFjY291bnRfbmFtZSslM0QrdS5pZCUwRCUwQSsrKysrKysrK0pPSU4rcHJlZml4X2xyc19vYmplY3RfdHlwZStBUytvdCtvbitkLm9iamVjdHR5cGVpZCslM0Qrb3QuaWQlMEQlMEErKysrKysrKytKT0lOK3ByZWZpeF9scnNfb2JqZWN0K0FTK28rT04rb2JqZWN0aWQrJTNEK28uaWQlMEQlMEErKysrKysrKytKT0lOK3ByZWZpeF9scnNfb2JqZWN0X2RlZitvZCtPTitvZC5pZCslM0Qrby5vYmplY3RfZGVmaWQlMEQlMEErKysrKysrKytKT0lOK3ByZWZpeF9scnNfb2JqZWN0X2V4dGVuc2lvbnMrQVMrb2UrT04rby5vYmplY3RfZGVmX2V4dGVuc2lvbnNpZCslM0Qrb2UuaWQlMEQlMEFXSEVSRSUwRCUwQSsrKysrKysrZC52b2lkZWQrJTNEKzArJTBEJTBBKytBTkQrdS5zdXNwZW5kZWQrJTNEKzArJTBEJTBBKytBTkQrdS5kZWxldGVkKyUzRCswKyUwRCUwQSsrQU5EK290Lm5hbWUrJTNEKyUyN2V4dGVybmFsY291cnNlJTI3IjtzOjg6ImNvdXJzZWlkIjtpOjE7czoxMjoic3VibWl0YnV0dG9uIjtzOjEyOiJTYXZlK2NoYW5nZXMiO3M6MTY6InJlcG9ydGNhdGVnb3JpZXMiO3M6MToiMCI7czoxNzoicmVwb3J0c2luY2F0ZWdvcnkiO3M6MToiMCI7czoxNDoicmVtb3RlcXVlcnlzcWwiO3M6MDoiIjt9fX0=]]></components>
 <export><![CDATA[csv,xls,]]></export>
 <jsordering><![CDATA[1]]></jsordering>
 <global><![CDATA[1]]></global>
-<lastexecutiontime><![CDATA[12]]></lastexecutiontime>
+<lastexecutiontime><![CDATA[2564]]></lastexecutiontime>
 <cron><![CDATA[0]]></cron>
+<remote><![CDATA[0]]></remote>
+<archiving_enable><![CDATA[0]]></archiving_enable>
+<archiving_username><![CDATA[]]></archiving_username>
+<archiving_subfolder><![CDATA[]]></archiving_subfolder>
+<archiving_format><![CDATA[]]></archiving_format>
+<archiving_timeofday_hour><![CDATA[0]]></archiving_timeofday_hour>
+<archiving_timeofday_minute><![CDATA[0]]></archiving_timeofday_minute>
+<archiving_nextdate><![CDATA[0]]></archiving_nextdate>
+<archiving_frequency><![CDATA[0]]></archiving_frequency>
+<archiving_timestampfile><![CDATA[0]]></archiving_timestampfile>
+<archiving_skipempty><![CDATA[0]]></archiving_skipempty>
 </report>
