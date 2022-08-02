@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <report version="2020110300"><visible><![CDATA[1]]></visible>
-<name><![CDATA[Course Shell Export]]></name>
+<name><![CDATA[Course Shells]]></name>
 <summary><![CDATA[<p dir="ltr" style="text-align: left;">This report can be used when making bulk changes to course shells.</p><p dir="ltr" style="text-align: left;">It will provide a starting point for course updates made via bulk import using a CSV file.</p><p dir="ltr" style="text-align: left;"><br></p>]]></summary>
 <summaryformat><![CDATA[1]]></summaryformat>
 <type><![CDATA[courses]]></type>
